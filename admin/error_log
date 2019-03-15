@@ -1,0 +1,69 @@
+[14-Mar-2019 07:22:18 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/player11/include/action.php on line 3
+[14-Mar-2019 07:22:18 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/player11/include/action.php on line 3
+[14-Mar-2019 07:22:18 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/nexusuvx/public_html/player11/include/action.php:15
+Stack trace:
+#0 /home/nexusuvx/public_html/player11/include/action.php(53): Action->getDBConnection()
+#1 /home/nexusuvx/public_html/player11/index.php(7): Action->Login(Array)
+#2 {main}
+  thrown in /home/nexusuvx/public_html/player11/include/action.php on line 15
+[14-Mar-2019 07:28:42 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/player11/include/action.php on line 3
+[14-Mar-2019 07:28:42 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/player11/include/action.php on line 3
+[14-Mar-2019 07:28:42 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/nexusuvx/public_html/player11/include/action.php:15
+Stack trace:
+#0 /home/nexusuvx/public_html/player11/include/action.php(53): Action->getDBConnection()
+#1 /home/nexusuvx/public_html/player11/index.php(7): Action->Login(Array)
+#2 {main}
+  thrown in /home/nexusuvx/public_html/player11/include/action.php on line 15
+[14-Mar-2019 07:32:29 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/player11/include/action.php on line 5
+[14-Mar-2019 07:32:29 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/player11/include/action.php on line 5
+[14-Mar-2019 07:32:29 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/nexusuvx/public_html/player11/include/action.php:29
+Stack trace:
+#0 /home/nexusuvx/public_html/player11/include/action.php(105): Action->getDBConnection()
+#1 /home/nexusuvx/public_html/player11/index.php(7): Action->Login(Array)
+#2 {main}
+  thrown in /home/nexusuvx/public_html/player11/include/action.php on line 29
+[14-Mar-2019 07:41:37 Etc/GMT] PHP Warning:  include_once(player11/config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/player11/include/action.php on line 4
+[14-Mar-2019 07:41:37 Etc/GMT] PHP Warning:  include_once(): Failed opening 'player11/config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/player11/include/action.php on line 4
+[14-Mar-2019 07:41:37 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/nexusuvx/public_html/player11/include/action.php:17
+Stack trace:
+#0 /home/nexusuvx/public_html/player11/include/action.php(52): Action->getDBConnection()
+#1 /home/nexusuvx/public_html/player11/index.php(7): Action->Login(Array)
+#2 {main}
+  thrown in /home/nexusuvx/public_html/player11/include/action.php on line 17
+[14-Mar-2019 07:42:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/nexusuvx/public_html/player11/include/action.php on line 22
+[14-Mar-2019 07:45:00 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/player11/include/action.php on line 4
+[14-Mar-2019 07:45:00 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/player11/include/action.php on line 4
+[14-Mar-2019 07:47:06 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/player11/include/action.php on line 4
+[14-Mar-2019 07:47:06 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/player11/include/action.php on line 4
+[14-Mar-2019 07:47:06 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/nexusuvx/public_html/player11/include/action.php:17
+Stack trace:
+#0 /home/nexusuvx/public_html/player11/include/action.php(55): Action->getDBConnection()
+#1 /home/nexusuvx/public_html/player11/index.php(7): Action->Login(Array)
+#2 {main}
+  thrown in /home/nexusuvx/public_html/player11/include/action.php on line 17
+[14-Mar-2019 08:58:46 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/nexusuvx/public_html/player11/dashboard.php on line 14
+[14-Mar-2019 08:58:51 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/nexusuvx/public_html/player11/dashboard.php on line 14
+[14-Mar-2019 08:59:08 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/nexusuvx/public_html/player11/dashboard.php on line 14
+[14-Mar-2019 09:02:04 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/nexusuvx/public_html/player11/include/action.php on line 71
+[14-Mar-2019 09:03:01 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/nexusuvx/public_html/player11/include/action.php on line 71
+[14-Mar-2019 09:03:02 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/nexusuvx/public_html/player11/dashboard.php on line 14
+[14-Mar-2019 09:03:05 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/nexusuvx/public_html/player11/dashboard.php on line 14
+[14-Mar-2019 09:03:39 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/nexusuvx/public_html/player11/dashboard.php on line 14
+[14-Mar-2019 09:03:42 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/nexusuvx/public_html/player11/dashboard.php on line 14
+[14-Mar-2019 09:06:05 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/nexusuvx/public_html/player11/dashboard.php on line 14
+[14-Mar-2019 09:07:37 Etc/GMT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/nexusuvx/public_html/player11/dashboard.php on line 1
+[14-Mar-2019 09:08:28 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/nexusuvx/public_html/player11/dashboard.php on line 1
+[14-Mar-2019 09:09:11 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/nexusuvx/public_html/player11/dashboard.php on line 1
+[14-Mar-2019 09:09:14 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/nexusuvx/public_html/player11/dashboard.php on line 1
+[14-Mar-2019 09:09:54 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/nexusuvx/public_html/player11/dashboard.php on line 1
+[14-Mar-2019 09:09:57 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/nexusuvx/public_html/player11/dashboard.php on line 1
+[14-Mar-2019 09:37:51 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/nexusuvx/public_html/player11/include/action.php on line 84
+[14-Mar-2019 09:37:51 Etc/GMT] PHP Notice:  Undefined variable: row in /home/nexusuvx/public_html/player11/include/action.php on line 86
+[14-Mar-2019 09:37:55 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/nexusuvx/public_html/player11/include/headerbar.php on line 155
+[14-Mar-2019 09:37:55 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/nexusuvx/public_html/player11/include/headerbar.php on line 155
+[14-Mar-2019 09:37:55 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/nexusuvx/public_html/player11/include/headerbar.php on line 157
+[14-Mar-2019 09:37:55 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/nexusuvx/public_html/player11/include/headerbar.php on line 157
+[14-Mar-2019 09:38:04 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/nexusuvx/public_html/player11/include/action.php on line 71
+[14-Mar-2019 09:38:07 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/nexusuvx/public_html/player11/include/head_layout.php on line 2
+[14-Mar-2019 09:38:11 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/nexusuvx/public_html/player11/include/action.php on line 84
+[14-Mar-2019 09:38:11 Etc/GMT] PHP Notice:  Undefined variable: row in /home/nexusuvx/public_html/player11/include/action.php on line 86

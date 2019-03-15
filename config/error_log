@@ -1,0 +1,4 @@
+[14-Mar-2019 07:25:03 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/nexusuvx/public_html/player11/config/db.php on line 5
+[14-Mar-2019 07:25:03 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/nexusuvx/public_html/player11/config/db.php on line 8
+[14-Mar-2019 07:27:31 Etc/GMT] PHP Notice:  Undefined variable: Rhq in /home/nexusuvx/public_html/player11/config/db.php on line 2
+[14-Mar-2019 07:27:31 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nexusuvx_nexus'@'localhost' (using password: YES) in /home/nexusuvx/public_html/player11/config/db.php on line 2
